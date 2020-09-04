@@ -10,6 +10,9 @@ Mondays - No TAs are available as of last check. We could use a TA to do the Mon
 
 Tuesdays - Marla may be available.
 
+Saturdays - Rob time.
+
+
 ## Tickets
 
 Tickets for admittance to TA sessions must be requested at least one day in advance. *No-show to TA sessions is not acceptable*. If you must cancel, do so well in advance. TA time is valuable time.
