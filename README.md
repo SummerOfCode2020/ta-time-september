@@ -37,3 +37,5 @@ Update the README to include your full name and a description of anything specif
 ### Example date for Tuesday 9/1/20
 
 Example Person Name Here to review React state
+
+For Saturday 9/11/20 Xavier Cody to help me get back on track I'm behind big time. What time is TA Session for?
