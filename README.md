@@ -12,6 +12,10 @@ Tuesdays - Marla may be available.
 
 Saturdays - Rob time.
 
+Available by calendar.
+
+- Sasha https://calendly.com/sashagemis/dev-help?month=2020-09
+
 
 ## Tickets
 
