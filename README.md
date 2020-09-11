@@ -2,20 +2,29 @@
 
 Please delete the old ta-time repo from your system.
 
+## Add your Request Below
+
+------>>>>-------->>>>>-------
+
+### Saturday 9/12 with Rob
+
+Students tbd asap
+
+### Monday 9/14 6 PM to 7 PM with TA TBD ASAP
+
+Alvin - support on personal project
+
+### Tuesday 9/15 5 PM to 6 PM with TA TBD ASAP
+
+Alvin - support on personal project
+
+------>>>>-------->>>>>-------
+
 ## Scheduling Availability
-
-Fridays - No one ever attended, *except that one time on July 10th that Nick did*, so we won't plan to have Friday sessions this month.
-
-Mondays - No TAs are available as of last check. We could use a TA to do the Monday session and skip a class day even. Just an option to put out there.
-
-Tuesdays - Marla may be available.
-
-Saturdays - Rob time.
 
 Available by calendar.
 
 - Sasha https://calendly.com/sashagemis/dev-help?month=2020-09
-
 
 ## Tickets
 
@@ -32,10 +41,4 @@ The TA will approve your pull request and provide you with your ticket to attend
 Navigate to the session you would like to attend.
 Update the README to include your full name and a description of anything specific for the TA to prepare for.
 
-## Add your Request below with the date
 
-### Example date for Tuesday 9/1/20
-
-Example Person Name Here to review React state
-
-For Saturday 9/11/20 Xavier Cody to help me get back on track I'm behind big time. What time is TA Session for?
