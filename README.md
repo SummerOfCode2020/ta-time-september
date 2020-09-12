@@ -10,13 +10,15 @@ Please delete the old ta-time repo from your system.
 
 Students tbd asap
 
-### Monday 9/14 6 PM to 7 PM with TA TBD ASAP
+### Monday 9/14 630 PM to 830 PM with Marla Jane
 
 Alvin - support on personal project
 
-### Tuesday 9/15 5 PM to 6 PM with TA TBD ASAP
+### Tuesday 9/15 3 PM to 5 PM with Marla Jane
 
 Alvin - support on personal project
+
+### Wednesday 9/15 6 PM to 630 PM with Kayla
 
 ------>>>>-------->>>>>-------
 
@@ -25,6 +27,8 @@ Alvin - support on personal project
 Available by calendar.
 
 - Sasha https://calendly.com/sashagemis/dev-help?month=2020-09
+
+-All TAs can also be contacted via Slack if above times do not work.
 
 ## Tickets
 
