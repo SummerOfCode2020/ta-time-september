@@ -31,7 +31,7 @@ Update the README to include your full name and a description of anything specif
 
 Example Person Name Here to review React state
 
-## Request date Sunday 9/19/2020
+## Request date Sunday 9/20/2020
 
 - Seeking TA to meet with group for industry project check-in!
 - As a group, we are all only able to meet together on Sunday, however, anytime works.
