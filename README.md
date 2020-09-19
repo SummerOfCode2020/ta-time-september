@@ -20,6 +20,10 @@ Alvin - support on personal project
 
 ### Wednesday 9/15 6 PM to 630 PM with Kayla
 
+## Saturday 9/19 with Rob
+
+- Stephanie - personal project
+
 ------>>>>-------->>>>>-------
 
 ## Scheduling Availability
