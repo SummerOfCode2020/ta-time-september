@@ -24,6 +24,11 @@ Alvin - support on personal project
 
 - Stephanie - personal project
 
+## Request date Sunday 9/20/2020
+
+- Seeking TA to meet with group for industry project check-in!
+- As a group, we are all only able to meet together on Sunday, however, anytime works.
+
 ------>>>>-------->>>>>-------
 
 ## Scheduling Availability
