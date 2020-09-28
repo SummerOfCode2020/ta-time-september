@@ -3,3 +3,5 @@
 - Alvin -- help with personal project and industry project
 ## sep 21
 - Alvin -- help with industry and personal project
+## sep 28
+- Alvin -- help with industry and personal project
